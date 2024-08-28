@@ -18,3 +18,19 @@ html {
     max-width: 1000px;
     margin: 0 auto;
 }
+
+.bordered {
+    border: 3px dashed aqua;
+}
+
+.colored {
+    color: lightcoral;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.big-text {
+    font-size: 4rem;
+}
